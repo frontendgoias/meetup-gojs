@@ -8,4 +8,4 @@ Para todo meetup que realizarmos, iremos criar uma issue neste repositório com 
 
 ## Entre para o slack do GOJS
 
-No nosso slack, temos discussões toda semana sobre os mais diversos assuntos relacionados à JavaScript (ou não). Link para acessar [aqui](https://docs.google.com/forms/d/e/1FAIpQLSeE88ovYdDweqNzYK_JttnqYkYnZ7LjHlqsXxnxuMjawqvoRA/viewform).
+No nosso slack, temos discussões toda semana sobre os mais diversos assuntos relacionados à JavaScript (ou não). Link para acessar [aqui](https://slackin-iztqicshbj.now.sh/).
