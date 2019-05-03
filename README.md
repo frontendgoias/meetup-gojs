@@ -3,7 +3,7 @@
 ## Formatos de eventos
 - **Meet-ups com palestras**, são os eventos mais comuns da comunidade e recomendamos que sejam realizados mensalmente. Normalmente possuem duração de 3 horas com uma recepção/networking de 30 minutos, 2 ou 3 slots de tempo com cerca de 20 minutos cada para apresentação de palestras. Ficando o tempo restante mais networking.
 - **Encontros para networking**, são eventos esporádicos que tem como objetivo permitir que os membros da comunidade se conheçam. Esses são os eventos mais versáteis pois podem acontecer em qualquer lugar (bares, shoppings, auditórios, etc.). O importante é que os participantes tenham espaço para conversar e trocar experiências.
-- **Hackathons**, são eventos onde a comunidade se reúne (presencial ou remotamente) para criar projetos em torno de um tema específico. Atualmente não temos um modelo para seguir para esse tipo de evento, porém podemos utilizar o [The Hack Day Manifesto](https://hackdaymanifesto.com/) e o [Hackathon Guide](https://hackathon.guide/) como guias.
+- **Hackathons**, são eventos onde a comunidade se reúne (presencial ou remoto) para criar projetos em torno de um tema específico. Atualmente não temos um modelo para seguir para esse tipo de evento, porém podemos utilizar o [The Hack Day Manifesto](https://hackdaymanifesto.com/) e o [Hackathon Guide](https://hackathon.guide/) como guias.
 
 ## Checklist para organização de eventos
 
@@ -13,7 +13,7 @@
 
 Independentemente do formato escolhido para o evento, é importante que o mesmo seja agendado e divulgado com antecedência. Anunciar e divulgar o evento de 3 a 4 semanas de antecedência dará tempo para as pessoas se organizarem para comparecer ao mesmo.
 
-Também recomendamos ser claro claro sobre qual audiência o facilitador está buscando atingir com o encontro. Por exemplo, o evento é um tema específico? Em iniciantes? etc..
+Também recomendamos ser claro sobre qual audiência o facilitador está buscando atingir com o encontro. Por exemplo, o evento é um tema específico? Em iniciantes? etc..
 
 Após agendar o evento, é necessário fazer com que as pessoas saibam que ele existe. Os canais de comunicação podem variar, mas alguns para se considerar:
 
