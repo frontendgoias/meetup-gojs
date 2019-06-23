@@ -1,5 +1,9 @@
 # Guia GoJS
 
+## Sobre a comunidade
+
+Uma comunidade com pessoas interessadas compartilhar conhecimentos à respeito de JavaScript em Goiás. A ideia da comunidade é aproximar e reunir pessoas para uma maior troca de conhecimento e que o panorama geral do estado melhore cada vez mais.
+
 ## Formatos de eventos
 - **Meet-ups com palestras**, são os eventos mais comuns da comunidade e recomendamos que sejam realizados mensalmente. Normalmente possuem duração de 3 horas com uma recepção/networking de 30 minutos, 2 ou 3 slots de tempo com cerca de 20 minutos cada para apresentação de palestras. Ficando o tempo restante mais networking.
 - **Encontros para networking**, são eventos esporádicos que tem como objetivo permitir que os membros da comunidade se conheçam. Esses são os eventos mais versáteis pois podem acontecer em qualquer lugar (bares, shoppings, auditórios, etc.). O importante é que os participantes tenham espaço para conversar e trocar experiências.
